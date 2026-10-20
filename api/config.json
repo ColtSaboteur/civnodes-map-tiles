@@ -1,0 +1,12 @@
+{
+  "tileSettings": {
+    "minZoom": 0,
+    "maxZoom": 8,
+    "tileSize": 256,
+    "worldBounds": {
+      "minX": -15360,
+      "minZ": -15360,
+      "size": 30720
+    }
+  }
+}
